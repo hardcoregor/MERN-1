@@ -1,0 +1,53 @@
+[
+  {
+    "name": "First",
+    "price": "100",
+    "description": "First",
+    "ratings": 3,
+    "images": [
+        {
+            "public_id": "1",
+            "url": "1"
+        }
+    ],
+    "category": "Nike",
+    "seller": "Nike",
+    "stock": 1,
+    "numOfReviews": 1,
+    "reviews": []
+},
+{
+  "name": "Second",
+  "price": "2",
+  "description": "Second",
+  "ratings": 2,
+  "images": [
+      {
+          "public_id": "2",
+          "url": "2"
+      }
+  ],
+  "category": "Adidas",
+  "seller": "Second",
+  "stock": 2,
+  "numOfReviews": 2,
+  "reviews": []
+},
+{
+  "name": "Third",
+  "price": "3",
+  "description": "Third",
+  "ratings": 2,
+  "images": [
+      {
+          "public_id": "3",
+          "url": "3"
+      }
+  ],
+  "category": "Saucony",
+  "seller": "Third",
+  "stock": 3,
+  "numOfReviews": 3,
+  "reviews": []
+}
+]
